@@ -1,5 +1,3 @@
-
 setTimeout(() => {
-    console.log("Bonjour")
-    
-},3000);
+  console.log("Bonjour lola ");
+}, 3000);
