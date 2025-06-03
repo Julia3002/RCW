@@ -6,4 +6,3 @@ response = requests.get(url)
 response = response.json()
 
 print(response['message'])
-dghch
